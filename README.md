@@ -8,4 +8,4 @@ Although I didn't take the professional 3D Modeling / Rigging / Animation path, 
 ![image](https://github.com/eversolea/CastleInTheSky-VR/blob/master/PortfolioRenders/flapter_perspective3.jpg)
 ![image](https://github.com/eversolea/CastleInTheSky-VR/blob/master/PortfolioRenders/flapter_perspective1.jpg)
 ![image](https://github.com/eversolea/CastleInTheSky-VR/blob/master/PortfolioRenders/flapter_perspective2.jpg)
-![image](https://github.com/eversolea/CastleInTheSky-VR/blob/master/PortfolioRenders/LegoMan.jpg)
+![image](https://github.com/eversolea/CastleInTheSky-VR/blob/master/PortfolioRenders/legoMan.jpg)
