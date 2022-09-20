@@ -4,8 +4,8 @@ A 3D Visualization of Laputa the "Castle in the Sky" from the movie with the sam
 
 #Misc. Portfolio Renders
 Although I didn't take the professional 3D Modeling / Rigging / Animation path, I have continued it as a hobby. One of the renders I've worked on is the Flapter from the Castle in the Sky movie, pictured below. Pictured after the flapter is Benny the Spaceman from the LEGO movie.
-![image](https://github.com/eversolea/CastleInTheSky-VR/tree/master/PortfolioRenders/flapter_perspective1_whiteSmoke.jpg)
-![image](https://github.com/eversolea/CastleInTheSky-VR/tree/master/PortfolioRenders/flapter_perspective3.jpg)
-![image](https://github.com/eversolea/CastleInTheSky-VR/tree/master/PortfolioRenders/flapter_perspective1.jpg)
-![image](https://github.com/eversolea/CastleInTheSky-VR/tree/master/PortfolioRenders/flapter_perspective2.jpg)
-![image](https://github.com/eversolea/CastleInTheSky-VR/tree/master/PortfolioRenders/legoman.jpg)
+![image](https://github.com/eversolea/CastleInTheSky-VR/blob/master/PortfolioRenders/flapter_perspective1_whiteSmoke.jpg)
+![image](https://github.com/eversolea/CastleInTheSky-VR/blob/master/PortfolioRenders/flapter_perspective3.jpg)
+![image](https://github.com/eversolea/CastleInTheSky-VR/blob/master/PortfolioRenders/flapter_perspective1.jpg)
+![image](https://github.com/eversolea/CastleInTheSky-VR/blob/master/PortfolioRenders/flapter_perspective2.jpg)
+![image](https://github.com/eversolea/CastleInTheSky-VR/blob/master/PortfolioRenders/LegoMan.jpg)
