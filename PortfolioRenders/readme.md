@@ -1,0 +1,1 @@
+Although I didn't take the professional 3D Modeling / Rigging / Animation path, I have continued it as a hobby. One of the renders I've worked on is the Flapter from the Castle in the Sky movie, pictured below. Pictured after the flapter is Benny the Spaceman from the LEGO movie.
