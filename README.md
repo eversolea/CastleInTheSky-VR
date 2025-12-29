@@ -1,7 +1,7 @@
 # CastleInTheSky-VR
 A 3D Visualization of Laputa the "Castle in the Sky" from the movie with the same name. Whenever I watch the main characters exploring the Castle in the Sky, I can imagine myself creating each pillar and fields in a 3D Engine and walking through it myself. Moving what I know about 3DS MAX into Unreal Engine and later VR (long-term personal project)
 
-**Note: The current version of this project is made in Unreal 5.6 and is INCREDIBLY unoptimized. I'll probably get to working on optimization once I got the core features of this exploration game finished and its more polished**
+**Note: The current version of this project is made in Unreal 5.6 and is INCREDIBLY unoptimized. I'll probably get to working on optimization once I got the core features of this exploration game finished and its more polished**  
 Download (windows): https://drive.google.com/file/d/15ZA29yIv1gF2231vmbQ3hztrzn_qwZVm/view?usp=drive_link
 
 ![image](https://github.com/eversolea/CastleInTheSky-VR/blob/master/pre2022work/3DSMaxModel2.png)
